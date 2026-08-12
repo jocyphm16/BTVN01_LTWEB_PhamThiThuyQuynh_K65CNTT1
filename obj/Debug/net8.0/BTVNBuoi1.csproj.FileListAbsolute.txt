@@ -1,0 +1,14 @@
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\bin\Debug\net8.0\BTVNBuoi1.exe
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\bin\Debug\net8.0\BTVNBuoi1.deps.json
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\bin\Debug\net8.0\BTVNBuoi1.runtimeconfig.json
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\bin\Debug\net8.0\BTVNBuoi1.dll
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\bin\Debug\net8.0\BTVNBuoi1.pdb
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\obj\Debug\net8.0\BTVNBuoi1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\obj\Debug\net8.0\BTVNBuoi1.AssemblyInfoInputs.cache
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\obj\Debug\net8.0\BTVNBuoi1.AssemblyInfo.cs
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\obj\Debug\net8.0\BTVNBuoi1.csproj.CoreCompileInputs.cache
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\obj\Debug\net8.0\BTVNBuoi1.dll
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\obj\Debug\net8.0\refint\BTVNBuoi1.dll
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\obj\Debug\net8.0\BTVNBuoi1.pdb
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\obj\Debug\net8.0\BTVNBuoi1.genruntimeconfig.cache
+E:\SVNam3\LapTrinhWEB\BTVNBuoi1\obj\Debug\net8.0\ref\BTVNBuoi1.dll
